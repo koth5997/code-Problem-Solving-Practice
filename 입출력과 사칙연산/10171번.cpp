@@ -1,7 +1,7 @@
 #include <iostream>
 
 using namespace std;
-
+/*
 int main() {
 
     cout << "\\    /\\" << endl;
@@ -11,3 +11,4 @@ int main() {
 
     return 0;
 }
+*/

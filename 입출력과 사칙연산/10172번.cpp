@@ -1,7 +1,7 @@
 #include <iostream>
 
 using namespace std;
-
+/*
 int main() {
 
     cout << "|\\_/|" << endl;
@@ -11,4 +11,4 @@ int main() {
     cout << "||_/=\\\\__|" << endl;
 
     return 0;
-}
+}*/
